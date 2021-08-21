@@ -1775,7 +1775,7 @@ ol {
 
 .hero-area .hero-content h1 {
   font-weight: 700;
-  font-size: 35px;
+  font-size: 30px;
   line-height: 52px;
   color: #fff;
   text-transform: capitalize;
@@ -1819,7 +1819,7 @@ ol {
 }
 
 .hero-area .hero-content h5 {
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 600;
   color: #fff;
   margin-top: 20px;
@@ -1989,6 +1989,7 @@ ol {
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 1400px) {
   .domain-search .content p {
     padding: 0px 20px;
+    font-size: 13px;
   }
 }
 
